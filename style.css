@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#intro {
+    background-image: url("https://st.depositphotos.com/1500858/2555/i/600/depositphotos_25558141-stock-photo-travel-the-world-by-airplane.jpg");
+    height: 700px;
+    background-size:cover;
+    
+    /* background-repeat: no-repeat; */
+  
+   
+  }
+
+  /* Height for devices larger than 576px */
+  /* @media (min-width: 992px) {
+    #intro {
+      margin-top: -58.59px;
+    }
+  } */
+  navbar .nav-link {
+    color: #fff !important;
+  }
+  #icon{
+    margin-left: 610px;
+  }
+  #foot{
+    background-color: rgb(24, 61, 171);
+  }
+ #aboutus{
+  color: yellow;
+ }
+  #foot i{
+    color: #fff;
+  }
